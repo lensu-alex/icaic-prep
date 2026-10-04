@@ -1,0 +1,10 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Large dataset/output files
+train_data.csv
+test_data.csv
+Submission.csv
+submission.csv
+sample_output.csv
